@@ -7,7 +7,7 @@ class Program
         //List to store numbers
         List<int> numbers = new List<int>();
 
-        //Get number from user
+        //Get number from the user
         int userNumber = -1;
         while (userNumber != 0)
         {
