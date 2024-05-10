@@ -44,6 +44,5 @@ class Program
         {
             Console.WriteLine("Keep studying! You can do better next time.");
         }
-
     }
 }
